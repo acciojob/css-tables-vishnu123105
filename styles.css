@@ -4,13 +4,13 @@
     border-collapse: collapse;
     margin: 20px 0;
 }
-.td{
+td{
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	padding: 0.5rem
 	
 }
-.th{
+th{
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	padding: 0.5rem
