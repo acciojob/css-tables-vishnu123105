@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+ your css code here. If applicable */
+ styled-table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+.td{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 0.5rem
+	
+}
+.th{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 0.5rem
+	
+}
+tr:nth-child(odd) {
+	background-color: #ffffff;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
